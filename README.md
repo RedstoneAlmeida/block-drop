@@ -1,0 +1,2 @@
+# block-drop
+drop plugins
